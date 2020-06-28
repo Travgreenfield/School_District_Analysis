@@ -18,9 +18,11 @@ schools?**
   After the fraudulent scores are removed from Thomas High School, the school's performance fell from the **2nd** highest performing school (based on "% Overall Passing") to the **8th** highest performing school (out of 15).
   
 **4. How does removing the ninth
-grade scores affect the following:
-  - Math and Reading Scores by Grade**
+grade scores affect the following:**
+
+  **- Math and Reading Scores by Grade**
     With the fraudulent scores removed, the district-wide Math scores for the 9th grade fell from 80.4% to 80.1% while the Reading scores for the same group fell similarly from 82.5% to 82.4%
+    
   **- Scores by School Spending**
     With a per student spending rate of $638.00, Thomas High School falls into the $630-$644 range we used to break up our 15 schools. With the fraudluent grades removed, the overall passing rate for those schools fell 7% (from 63% to 56%).
     
